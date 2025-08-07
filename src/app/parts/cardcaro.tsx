@@ -92,7 +92,7 @@ export default function ITChallengeCarousel() {
       </div>
 
       {/* Carousel Body */}
-      <div className="w-full overflow-hidden px-6 mt-15">
+      <div className="w-full overflow-hidden px-6 mt-8">
         <div
           ref={containerRef}
           className="flex gap-6 cursor-grab overflow-x-auto hide-scrollbar"

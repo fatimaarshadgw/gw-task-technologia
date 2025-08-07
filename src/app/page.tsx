@@ -4,6 +4,7 @@ import Costcontent from "./parts/cost";
 import ManageIT from "./parts/firstcomp";
 import Howwedo from "./parts/how";
 import Navbar from "./parts/navbar";
+import Tribute from "./parts/tribute";
 import Solving from "./parts/wedo";
 import Bringing from "./parts/weuse";
 import Whatwedo from "./parts/whatdo";
@@ -30,6 +31,8 @@ export default function Home(){
     <Bringing/>
 
     <Wherewe/>
+
+    <Tribute/>
     
 
     </div>

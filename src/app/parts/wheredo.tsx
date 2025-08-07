@@ -46,10 +46,11 @@ export default function Wherewe() {
 
             <img className=" rounded-xl w-full h-46" src="/nespresso-1024x743 (1).webp" alt="" />
 
-            <div className="text-xs font-semibold text-gray-400 mt-5">Cloud Hosting</div>
+            <div className="text-xs font-semibold text-gray-400 mt-5">
+             IT Consulting</div>
 
             <h3 className="text-xl font-semibold mt-3 mb-2 text-black hover:text-blue-800 cursor cursor-pointer">
-                Major Insurance Provider Saves $750k per Month With Big Data Migration</h3>
+                Maximizing Efficiency with Proper Technology Implementation – Coffee Success Story</h3>
 
             <p className="text-gray-700 text-sm mt-4">
               The company needed to complete a complex migration on a tight deadline to avoid millions of dollars in post-contract fees and fines.
@@ -70,13 +71,14 @@ export default function Wherewe() {
             
             <img className=" rounded-xl w-full h-46" src="/undergroup-1024x743 (1).webp" alt="" />
 
-            <div className="text-xs font-semibold text-gray-400 mt-5">Cloud Hosting</div>
+            <div className="text-xs font-semibold text-gray-400 mt-5">
+                Mobile development</div>
 
             <h3 className="text-xl font-semibold mt-3 mb-2 text-black hover:text-blue-800 cursor cursor-pointer">
-                Cyber Security</h3>
+                Strategic Move to an AI-supported application for Public Safety Travel App in London</h3>
                 
             <p className="text-gray-700 text-sm mt-4">
-              Our experts can identify vulnerabilities, assess risks, and implement robust security measures to safeguard your systems and data.
+             Travel confidently around London with maps and live travel updates. Our reliable journey planner will map a safe route
             </p>
 
              <p className="text-gray-500 text-sm flex gap-2 mt-4">
